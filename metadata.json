@@ -1,0 +1,6 @@
+{
+  "name": "MATH OMI 2026 - MIN 1 Kotawaringin Timur",
+  "description": "Platform Pembelajaran & Latihan Matematika Interaktif Kelas 6 MI Persiapan Olimpiade Madrasah Indonesia (OMI) 2026. Disusun By Witno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
